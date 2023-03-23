@@ -12,7 +12,7 @@ public class Aluno {
     }
 
     public double faltaPontos() {
-        if (notaFinal() < 50.0) {
+        if (notaFinal() < 60.0) {
             return 60.0 - notaFinal();
         }
         else {
