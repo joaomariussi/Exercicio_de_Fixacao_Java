@@ -4,7 +4,7 @@ import entidades.Funcionario;
 
 import java.util.Scanner;
 
-public class exedefixacaoex02 {
+public class exedefixacaoex02video07 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -4,7 +4,7 @@ import entidades.Aluno;
 
 import java.util.Scanner;
 
-public class exedefixacaoex03 {
+public class exedefixacaoex03video07 {
 
     public static void main(String[] args) {
 

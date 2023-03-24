@@ -4,7 +4,7 @@ import entidades.Retangulo;
 
 import java.util.Scanner;
 
-public class exedefixacaoex01 {
+public class exedefixacaoex01video07 {
 
     public static void main(String[] args) {
 
