@@ -1,6 +1,6 @@
 package exerciciosdefixacao;
 
-import entidades.Produtos;
+import application.Produtos;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package entidades;
+package application;
 
 public class Triangulo {
 

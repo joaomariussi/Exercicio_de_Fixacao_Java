@@ -1,6 +1,6 @@
 package exerciciosdefixacao;
 
-import entidades.Triangulo;
+import application.Triangulo;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package exerciciosdefixacao;
 
-import entidades.Aluno;
+import application.Aluno;
 
 import java.util.Scanner;
 

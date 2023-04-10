@@ -1,6 +1,6 @@
 package exerciciosdefixacao;
 
-import entidades.Calcular;
+import application.Calcular;
 
 import java.util.Scanner;
 

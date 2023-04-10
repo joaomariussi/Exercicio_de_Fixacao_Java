@@ -1,6 +1,6 @@
 package exerciciosdefixacao;
 
-import entidades.Retangulo;
+import application.Retangulo;
 
 import java.util.Scanner;
 
